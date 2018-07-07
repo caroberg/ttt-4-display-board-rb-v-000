@@ -10,5 +10,3 @@ def display_board(board)
   puts barrier
   puts row_three
 end
-
-
