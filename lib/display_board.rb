@@ -1,5 +1,5 @@
 def display_board(board)
-  board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+  board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
   row_one = [" #{board[0]} | #{board[1]} | #{board[2]} "]
   row_two = [" #{board[3]} | #{board[4]} | #{board[5]} "]
   row_three = [" #{board[6]} | #{board[7]} | #{board[8]} "]
@@ -11,5 +11,4 @@ def display_board(board)
   puts row_three
 end
 
-board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
-puts display_board(board)
+
