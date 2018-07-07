@@ -10,3 +10,5 @@ def display_board(board)
   puts barrier
   puts row_three
 end
+
+puts display_board(board[4 = "X"])
