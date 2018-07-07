@@ -21,16 +21,3 @@ def display_board(board)
   puts barrier
   puts row_three
 end
-
-puts display_board(board)
-puts display_board(board_one)
-puts display_board(board_two)
-puts display_board(board_three)
-puts display_board(board_four)
-puts display_board(board_five)
-puts display_board(board_six)
-puts display_board(board_seven)
-puts display_board(board_eight)
-puts display_board(board_nine)
-puts display_board(board_ten)
-puts display_board(board_eleven)
