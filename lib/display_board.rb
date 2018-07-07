@@ -11,4 +11,6 @@ def display_board(board)
   puts row_three
 end
 
-puts display_board(board[4 = "X"])
+board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
+puts display_board(board)
+
